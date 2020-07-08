@@ -1,0 +1,74 @@
+{
+    "sources": [
+        {
+            "id": "subreddit",
+            "name": "Subreddit",
+            "icon": "",
+            "description": "",
+            "categories": [
+                {
+                    "id": "hot",
+                    "name": "Hot"
+                },
+                {
+                    "id": "top",
+                    "name": "Top"
+                },
+                {
+                    "id": "new",
+                    "name": "New"
+                },
+                {
+                    "id": "best",
+                    "name": "Best"
+                }
+            ]
+        }
+    ],
+    "targets": [
+        {
+            "id": "slack-wh",
+            "name": "Slack Webhook",
+            "icon": "",
+            "description": "Slack Webhook"
+        },
+        {
+            "id": "discord-wh",
+            "name": "Discord Webhook",
+            "icon": "",
+            "description": "Discord Webhook"
+        }
+    ],
+    "frequencies": [
+        {
+            "id": "hour",
+            "name": "Hour",
+            "description": ""
+        },
+        {
+            "id": "hours-3",
+            "name": "Every 3 hours",
+            "description": ""
+        },
+        {
+            "id": "hours-6",
+            "name": "Every 6 hours",
+            "description": ""
+        },
+        {
+            "id": "hours-12",
+            "name": "Every 12 hours",
+            "description": ""
+        },
+        {
+            "id": "day",
+            "name": "Once a day",
+            "description": ""
+        },
+        {
+            "id": "week",
+            "name": "Once a week",
+            "description": ""
+        }
+    ]
+}
