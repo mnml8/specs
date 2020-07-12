@@ -39,32 +39,38 @@
         {
             "id": "hour",
             "name": "Hour",
-            "description": ""
+            "description": "",
+            "is_paid": true
         },
         {
             "id": "hours-3",
             "name": "Every 3 hours",
-            "description": ""
+            "description": "",
+            "is_paid": true
         },
         {
             "id": "hours-6",
             "name": "Every 6 hours",
-            "description": ""
+            "description": "",
+            "is_paid": true
         },
         {
             "id": "hours-12",
             "name": "Every 12 hours",
-            "description": ""
+            "description": "",
+            "is_paid": false
         },
         {
             "id": "day",
             "name": "Once a day",
-            "description": ""
+            "description": "",
+            "is_paid": false
         },
         {
             "id": "week",
             "name": "Once a week",
-            "description": ""
+            "description": "",
+            "is_paid": false
         }
     ]
 }
