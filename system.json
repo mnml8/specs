@@ -40,11 +40,6 @@
             "id": "day",
             "name": "Once a day",
             "description": ""
-        },
-        {
-            "id": "week",
-            "name": "Once a week",
-            "description": ""
         }
     ]
 }
