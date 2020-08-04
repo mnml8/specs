@@ -19,6 +19,18 @@
                     "name": "New"
                 }
             ]
+        },
+        {
+            "id": "rss",
+            "name": "RSS",
+            "icon": "",
+            "description": "",
+            "categories": [
+                {
+                    "id": "all",
+                    "name": "All"
+                }
+            ]
         }
     ],
     "targets": [
